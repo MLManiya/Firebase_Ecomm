@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340690904034",
+    "firebase_url": "https://fir-ecomm-f282f-default-rtdb.firebaseio.com",
+    "project_id": "fir-ecomm-f282f",
+    "storage_bucket": "fir-ecomm-f282f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340690904034:android:5a90d0143669a0fecb0fbb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ecomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340690904034-2mqdugtbd8ut4irvpocq379u02udl09r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_ecomm",
+            "certificate_hash": "fe10c5f59e168cdb878897e2899a323f2a4cf22a"
+          }
+        },
+        {
+          "client_id": "340690904034-9n9l1vv86asdk27s0lkbsb831nqe0ds0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhU3fx7xNBHIvj1mXiQ9yM5ew_oTxsAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340690904034-9n9l1vv86asdk27s0lkbsb831nqe0ds0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
